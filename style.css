@@ -1,0 +1,200 @@
+
+
+.card{
+  border: 3px solid black;
+  border-radius: 10px;
+  padding: 10px 20px;
+  width: 300px;
+}
+
+#danwiet {
+  text-align: center;
+}
+
+#danwiet img {
+  border-radius: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#dan_comment {
+  border-radius: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#johndiv {
+  background: black;
+  color:white;
+  box-shadow:
+  0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+  0 6.7px 5.3px rgba(0, 0, 0, 0.048),
+  0 12.5px 10px rgba(0, 0, 0, 0.06),
+  0 22.3px 17.9px rgba(0, 0, 0, 0.072),
+  0 41.8px 33.4px rgba(0, 0, 0, 0.086),
+  0 100px 80px rgba(0, 0, 0, 0.12);
+}
+
+#johndiv img {
+  border-radius: 10px;
+  width: 300px;
+}
+
+/* Alexis' Styling */
+#Alexis {
+  background-color: #eae2b7;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 13px;
+  letter-spacing: 2px;
+  color: #003049;
+  border: none;
+  text-align: center;
+}
+#Alexis a {
+  color: #f77f00;
+  text-decoration: none;
+}
+#Alexis a:hover {
+  color: #d62828;
+}
+#Alexis h2 {
+  font-size: 30px;
+  font-weight: 900;
+  font-family: 'Amatic SC', cursive;
+  line-height: 1px;
+}
+#Alexis h3 {
+  color:#f77f00;
+  font-size: 25px;
+  font-weight: 200;
+  font-family: 'Amatic SC', cursive;
+}
+/*Alexis Styling End */
+
+
+
+#Jasmine {
+  background-color: #f5f5f5;
+  font-family: avenir;
+  border: 2px solid gold;
+  width: 300px;
+  padding: 20px;
+  text-align:justify;
+}
+#Jasmine img{
+  border-radius: 5px;
+  box-shadow: 1px 1px 5px #333;
+}
+
+#Jasmine h3{
+  font-family: 'Roboto Mono', monospace;
+  color: darkblue;
+}
+#jasmine_yourname{
+  box-shadow: 1px 1px 1px #333;
+  border-radius: 5px;
+}
+#Leaveamessage {
+  box-shadow: 1px 1px 1px #333;
+  border-radius: 5px;
+}
+/*Jasmine's STyle ends*/
+
+
+
+#Nikki h2 {
+  font-family: Verdana;
+  color: black;
+  text-align: center;
+}
+#Nikki h3{
+  font-family: verdana;
+  color: darkred;
+  text-align: center;
+}
+#Nikki p{
+  text-align: center;
+}
+#Nikki {
+  background-color: whitesmoke;
+  text-align: center;
+  font-size: 14px;
+  /* border: solid; */
+  padding: 25px;
+  box-shadow: 5px 10px;
+  
+}
+#nikki_nickname{
+  text-align: center;
+
+}
+#nikki_comments{
+  text-align: center;
+}
+
+/* Billy's Sytle Info  */
+
+#divBilly {
+  text-align: center;
+  border: 1px solid black;
+  width: 300px;
+  
+}
+
+ #divBilly img{
+  width: 100px;
+} 
+
+#billy_Nickname {
+  text-align: center;
+  }
+
+
+/*Sharon*/
+#sharon{ 
+  text-align: center;
+  font-family: cursive;
+  background-color: #ccccff; 
+  border: 15px 15px 15px 15px;
+  padding: 20px;
+  text-shadow: 2px 2px #c080ff;
+  float: left;
+  border-color:#3434ff;
+  border-width: 5px; 
+
+}
+
+button{
+  float: right;
+  background-color:#c080ff;
+  border-radius: 15px;
+}
+/*Sharon */
+
+
+
+#divCharles{
+  text-decoration-color: green;
+  text-align: center;
+}
+
+#chasity {
+  background: blueviolet;
+  color: white;
+  font-family: 'Verdana', courier;
+  font-size: 15px;
+  letter-spacing: 3px;
+  color: white;
+  border: 5px black;
+  text-align: center;
+}
+
+#divShameka{
+
+}
+
+#claudette {
+  background: pink;
+color: yellow;
+font-family:'Times New Roman', Times, serif;
+font-size: 12px;
+border: solid turquoise;
+text-align: center;}
