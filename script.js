@@ -1,15 +1,15 @@
 //Sharon
-letsharonvariable= 4;
-console.log('Sharon's birthday countdown');
-let days ='4'
-console.log ("Happy Birthday 61")
+let sharonvariable= 4;
+console.log(`Sharon's birthday countdown`);
+let days ='4';
+console.log ("Happy Birthday 61");
 
 
 // Dan
 let dinner = 'leftovers';
-console.log('I am having ' + dinner + ' for dinner tonight');
+console.log('\nI am having ' + dinner + ' for dinner tonight');
 dinner = 'Ramen';
-console.log('A few days ago I had ' + dinner + ' for dinner')
+console.log('A few days ago I had ' + dinner + ' for dinner\n');
 
 
 //Manny Variable
@@ -29,7 +29,7 @@ console.log("My full name is Nina " + ninasvariable);
 let johnarray = ['j','o','h','n'];
 let johnvariable1 = johnarray[0];
 let johnvariable2 = johnarray[1];
-let johnvariable3 = johnarray[2]];
+let johnvariable3 = johnarray[2];
 let johnvariable4 = johnarray[3];
 console.log("John's name but scrambled " + johnvariable4 + johnvariable3 + johnvariable2 + johnvariable1 );
 
@@ -42,8 +42,8 @@ console.log("My birthdate is " + chasitysvariable);
 //chasitysvariable
 
 let shamekavariable = 4;
-console.log (My birthday is + shamekavariable)
-console.log("Happy Birthday")
+console.log ("My birthday is "+ shamekavariable);
+console.log("Happy Birthday");
 
 
 //jasmine//
@@ -71,7 +71,7 @@ let billyAge = 60;
 let nikki = "Watch out";
 console.log(nikki); 
 nikki = "ennbee9";
-console.log("my twitch name is  " + nikki +". No content, I just watch");
+console.log("My Twitch name is  " + nikki +". I have no content, I just enjoy watching");
 
 
 let goofy = 7;
@@ -86,13 +86,20 @@ console.log("My full name is Shedrick " + shedrickvariable);
 
 
 
-let cjword = 100
+let cjword = 100;
 console.log();
 
 let nicolesvariable = 13;
 console.log("Nicole's number is: " + nicolesvariable);
 nicolesvariable = "wilson";
-console.log("My full name is Nicole ' + nicolesvariable);
+console.log("My full name is Nicole " + nicolesvariable);
 // the way you have it now will display 'My full name is Nicole Wilsonwilson'
 // console.log('My full name is Nicole ' + nicolesvariable)
 
+// Claudette
+
+
+let Claudette_variable= 7;
+console.log ("Claudette's favorite number is " + Claudette_variable);
+Claudette_variable = " Marie "
+console.log ("My middle name is" + Claudette_variable);

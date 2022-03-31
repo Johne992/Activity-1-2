@@ -6,6 +6,23 @@
   padding: 10px 20px;
   width: 300px;
 }
+#maurice{
+background: blue;
+}
+#maurice a{
+  color:aqua
+}
+ #maurice h3{
+  color:#d62828;
+}
+#maurice h2{
+  color:aliceblue;
+}
+
+
+
+
+
 
 #danwiet {
   text-align: center;
@@ -13,6 +30,8 @@
 
 #danwiet img {
   border-radius: 10px;
+  width: 90%;
+  height: auto;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
@@ -159,14 +178,11 @@
   float: left;
   border-color:#3434ff;
   border-width: 5px; 
-
+  width: 300px;
+  height: 500px;
 }
 
-button{
-  float: right;
-  background-color:#c080ff;
-  border-radius: 15px;
-}
+
 /*Sharon */
 
 
@@ -198,3 +214,13 @@ font-family:'Times New Roman', Times, serif;
 font-size: 12px;
 border: solid turquoise;
 text-align: center;}
+.label for, input type {center;}
+
+.Shedrick {
+border: 5px ridge #f00;  
+padding: .3rem ;
+}
+img{
+  width: 135px;
+  height:135px;
+}
